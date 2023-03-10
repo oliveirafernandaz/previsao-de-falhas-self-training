@@ -1,9 +1,7 @@
 
 # Predição de falhas utilizando Self-Training Classifier
 
-Esse projeto foi feito como parte do processo seletivo para a vaga de cientista de dados trainee no Programa Lighthouse, da empresa Indicium.
-
-Trata-se da aplicação de um modelo semi-supervisionado, que conta com target labels em apenas um dos conjuntos de dados. O objetivo é encontrar dois agrupamentos, os de falha e não falha, de forma a identificar padrões escondidos nos dados, que possam predizer essa informação. Após os dados serem pré-processados, foi aplicado o modelo supervisionado Random Forest e o semi-supervisionado Self-Training Classifier, ambos da biblioteca sklearn.
+Esse projeto trata-se da aplicação de um modelo semi-supervisionado, que conta com target labels em apenas um dos conjuntos de dados. O objetivo é encontrar dois agrupamentos, os de falha e não falha, de forma a identificar padrões escondidos nos dados, que possam predizer essa informação. Após os dados serem pré-processados, foi aplicado o modelo supervisionado Random Forest e o semi-supervisionado Self-Training Classifier, ambos da biblioteca sklearn.
 
 
 
